@@ -32,19 +32,6 @@ I used Power Query Editor to perform data cleaning and transformation on dataset
 
 The dashboard is created using Power Bi. It is divided into three pages: Overview, Most Played and Listening Trend.
 
-✅Key Metrics:
-
-🔸Important metrics are Total artist, albums, songs, listening time, avg hours, avg minutes per day, provides valuable insights into music consumption behavior.
-
-🔸Donut Chart shows the Platform Breakdown Android is the most used platforms, accounting for over 90% usage.
-
-🔸Skipping Rate: Significantly 98.82% of songs are skipped, which could indicate better content discovery features.
-
-🔸The Beatle are the most played artist per minute, indicating their popularity.
-
-🔸The New Abnormal" and The Beatles" album are among most played.
-
-🔸"Ode To The Mets" is the most played track, suggesting a specific song is the resonating with users.
 
 ✅Key Metrics:
 
